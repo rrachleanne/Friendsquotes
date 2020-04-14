@@ -33,4 +33,4 @@ end
 
 #STEP 2: Use faker (or the gem of your choice) to display the fact, then ask the user if they would like another fact
 # require 'faker'
-# fun_fact = Faker::TvShows::Friends.quote  NOTE TO SELF: Got stuck on this one because i didnt add .quote
+# fun_fact = Faker::TvShows::Friends.quote  NOTE TO SELF: Got stuck on this one because i didnt add .quote# Friendsquotes
